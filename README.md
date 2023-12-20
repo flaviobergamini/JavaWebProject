@@ -1,2 +1,2 @@
 # JavaWebProject
-Projeto Web REST e SOAP da Pós
+Projeto Web REST e SOAP da Pós-Graduação
